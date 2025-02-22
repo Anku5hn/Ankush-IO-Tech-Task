@@ -8,6 +8,7 @@ LINK FOR THE PROJECT WITH .ENV INCLUDED: https://drive.google.com/file/d/1141wuz
 6. The project should be running on port 8080: http://localhost:8080/
 
 .env variables:
+
 MONGO_URI="mongodb+srv://ankush:4p-XbZs47!Ww_7H@cluster0.3ajonzt.mongodb.net/IOTech?retryWrites=true&w=majority&appName=Cluster0"
 PORT=8080
 
