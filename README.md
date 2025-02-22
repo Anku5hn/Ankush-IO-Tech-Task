@@ -10,6 +10,7 @@ LINK FOR THE PROJECT WITH .ENV INCLUDED: https://drive.google.com/file/d/1141wuz
 .env variables:
 
 MONGO_URI="mongodb+srv://ankush:4p-XbZs47!Ww_7H@cluster0.3ajonzt.mongodb.net/IOTech?retryWrites=true&w=majority&appName=Cluster0"
+
 PORT=8080
 
 Vercel links:
